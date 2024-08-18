@@ -1,0 +1,7 @@
+plex/config/*
+plex/transcode/*
+plex/media/*
+
+!plex/config/.gitkeep
+!plex/transcode/.gitkeep
+!plex/media/.gitkeep
